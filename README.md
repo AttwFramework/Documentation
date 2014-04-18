@@ -1,8 +1,7 @@
-Documentation
-=============
+##Documentation
 If you want see in the repository, [**click here**](https://github.com/AttwFramework/Documentation).
 
-##Tip
+###Tip
 Study the MVC pattern before to use any MVC framework.
 
 * [Configurations](https://github.com/AttwFramework/Documentation/blob/master/CONFIG.md)
